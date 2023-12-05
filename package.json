@@ -10,6 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "^7.7.1",
     "@astrojs/netlify": "^3.0.4",
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.3",
@@ -19,6 +20,7 @@
     "astro-icon": "1.0.0-next.2",
     "astro-robots-txt": "^1.0.0",
     "mdast-util-to-string": "^4.0.0",
+    "punycode": "^2.3.1",
     "reading-time": "^1.5.0",
     "solid-js": "^1.8.7"
   },
