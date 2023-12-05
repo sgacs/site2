@@ -12,4 +12,4 @@ pdfHref: "pclstm.pdf"
 DOI: [10.1109/embc48229.2022.9871867](https://ieeexplore.ieee.org/document/9871867/) <br>
 CONTRIBUTORS: Muhammed Abdel Hamid Shelleh <br>
 <br>
-<a href={post.pdfHref} target="_blank" rel="noopener noreferrer">Read the PDF Here</a>
+<a href="/pclstm.pdf" target="_blank" rel="noopener noreferrer">Read the PDF Here</a>

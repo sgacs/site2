@@ -12,4 +12,4 @@ pdfHref: "thnn.pdf"
 DOI: [TBD](https://arinex.com.au/EMBC/pdf/full-paper_633.pdf) <br>
 CONTRIBUTORS: Muhammed Shelleh <br>
 <br>
-<a href={post.pdfHref} target="_blank" rel="noopener noreferrer">Read the PDF Here</a>
+<a href="/thnn.pdf" target="_blank" rel="noopener noreferrer">Read the PDF Here</a>

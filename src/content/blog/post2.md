@@ -12,4 +12,4 @@ pdfHref: "analyzing.pdf"
 - DOI: [10.3390/app122110746](https://www.mdpi.com/2076-3417/12/21/10746) 
 - CONTRIBUTORS: Varadraj P. Gurupur; Paniz Abedin; Sahar Hooshmand; Muhammed Shelleh 
 <br>
-<a href={post.pdfHref} target="_blank" rel="noopener noreferrer">Read the PDF Here</a>
+<a href="/analyzing.pdf" target="_blank" rel="noopener noreferrer">Read the PDF Here</a>

@@ -12,4 +12,4 @@ Applied Sciences <br>
 DOI: [10.3390/app122110746](https://www.mdpi.com/2076-3417/12/21/10746) <br>
 CONTRIBUTORS: Varadraj P. Gurupur; Paniz Abedin; Sahar Hooshmand; Muhammed Shelleh <br>
 <br>
-<a href={post.pdfHref} target="_blank" rel="noopener noreferrer">Read the PDF Here</a>
+<a href="/madi.pdf" target="_blank" rel="noopener noreferrer">Read the PDF Here</a>
