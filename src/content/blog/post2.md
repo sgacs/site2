@@ -1,18 +1,15 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Hello, World"
+title: "Analyzing Data Completeness of Patient Records w/ Random Variable Approach"
 description: "this is a post example"
 pubDate: 2023-01-21
-category: "intro"
+category: "publications"
+pdfHref: "analyzing.pdf"
 ---
 
-# Hi there!
-
-This Markdown file creates a page at `your-domain.com/post1/`
-
-It probably isn't styled much, but Markdown does support:
-
-- **bold** and _italics._
-- lists
-- [links](https://astro.build)
-- and more!
+- Applied Sciences 
+- 2022-10-24 | Journal article 
+- DOI: [10.3390/app122110746](https://www.mdpi.com/2076-3417/12/21/10746) 
+- CONTRIBUTORS: Varadraj P. Gurupur; Paniz Abedin; Sahar Hooshmand; Muhammed Shelleh 
+<br>
+<a href={post.pdfHref} target="_blank" rel="noopener noreferrer">Read the PDF Here</a>

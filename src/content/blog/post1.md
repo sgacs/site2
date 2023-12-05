@@ -1,18 +1,15 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Hello, World"
+title: "(MADI): Analyzing Data Completeness of Patient Records"
 description: "this is a post example"
-pubDate: 2023-01-21
-category: "intro"
+pubDate: 2022-10-24
+category: "publications"
+pdfHref: "madi.pdf"
 ---
 
-# Hi there!
-
-This Markdown file creates a page at `your-domain.com/post1/`
-
-It probably isn't styled much, but Markdown does support:
-
-- **bold** and _italics._
-- lists
-- [links](https://astro.build)
-- and more!
+Applied Sciences <br>
+2022-10-24 | Journal article <br>
+DOI: [10.3390/app122110746](https://www.mdpi.com/2076-3417/12/21/10746) <br>
+CONTRIBUTORS: Varadraj P. Gurupur; Paniz Abedin; Sahar Hooshmand; Muhammed Shelleh <br>
+<br>
+<a href={post.pdfHref} target="_blank" rel="noopener noreferrer">Read the PDF Here</a>
