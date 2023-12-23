@@ -32,4 +32,8 @@ export default defineConfig({
   },
   output: "server",
   adapter: cloudflare(),
+  image: {
+      // Example: Enable the Sharp-based image service
+      service: { entrypoint: 'astro/assets/services/sharp' },
+  },
 });

@@ -4,8 +4,14 @@
 
 .tooltiptext {
   @apply absolute top-0 left-full ml-3 p-2 bg-black text-white rounded opacity-0 transition-all transform translate-y-1/2;
+  max-width: 90%; /* Limit width for mobile screens */
 }
 
 .tooltip:hover .tooltiptext {
   @apply opacity-100 transform translate-y-0;
 }
+
+.tooltip:focus .tooltiptext { /* Add focus for touch devices */
+  @apply opacity-100 transform translate-y-0;
+}
+
