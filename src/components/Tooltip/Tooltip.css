@@ -4,7 +4,7 @@
 
 .tooltiptext {
   @apply absolute top-0 left-full ml-3 p-2 bg-black text-white rounded opacity-0 transition-all transform translate-y-1/2;
-  max-width: 90%; /* Limit width for mobile screens */
+  @apply sm:max-width-90 md:max-width-80 lg:max-width-70 xl:max-width-60; /* Adjust max-width at different breakpoints */
 }
 
 .tooltip:hover .tooltiptext {
